@@ -1,7 +1,7 @@
 # Olympic-Exploration
 
 Notebook for fun, exploring the dataset "120 years of olympic history: athletes and results" -
-see more information on the [Kaggle page](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
+see more information about the dataset on the [Kaggle page](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results).
 
 ## Motivation
 

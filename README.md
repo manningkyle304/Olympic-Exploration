@@ -9,4 +9,4 @@ I started this project mainly to apply skills I've learned in university courses
 
 ## Current status
 
-The notebook is very much still a work in progress, and I'll be making updates daily.
+The notebook is very much still a work in progress. I'll make occasional updates.
